@@ -6,14 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -23,11 +27,35 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ---
 
