@@ -6,43 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 1 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (2)
+- [strings](#strings) (1)
 
 ---
-
-### greedy
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
-
-### implementation
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
-
-### sortings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shijithajenifer/CODEFORCES-SOLUTIONS/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ---
 
